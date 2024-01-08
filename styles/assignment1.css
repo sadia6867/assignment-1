@@ -1,5 +1,5 @@
 .header{
-margin: 50px 140px 0px 140px;
+/* margin: 50px 140px 0px 140px; */
 border-radius: 16px;
 width: 1320px;
 height: 600px;
@@ -11,7 +11,7 @@ text-align: center;
 }
 
 .head{
-    padding-top: 60px;
+padding-top: 60px;
 }
 .new{
 color: #FFF;
@@ -54,7 +54,11 @@ font-weight: 700;
 .newyear{
     height: 400px;
     width: 400px;
-    margin: 0% 40%;
+    margin: 0% 25%;
+}
+.new-think{
+    height: 835px;
+    width:1320px ;
 }
 .banner{
 /* background-image: url('../images/Vectorrr.png'); */
@@ -96,9 +100,194 @@ height: 60px;
 }
 .image-side{
     margin-top:68px ;
-    margin-left: 138px;
+    margin-left: 100px;
 }
 .new-div{
     margin-top: -50px;
     margin-left: 120px;
+}
+.pink{
+color: #070211;
+font-family: Inter;
+font-size: 32px;
+font-weight: 600;
+line-height: 56px;
+margin-top: 100px;
+padding-top: 100px;
+}
+.pink-back{
+width: 1320px;
+height: 482px;
+background:linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+text-align: center;
+}
+.red{
+color: #F00;
+}
+.join-btn{
+border-radius: 8px;
+background: #F00;
+padding: 16px 32px;
+border: 0px;
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;3
+}
+.three{
+display: flex;
+width: 1320px;
+height: 482px;
+background-color: #FFF;
+}
+.best{
+color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+}
+.first{
+    width: 33%;
+    padding: 20px;
+}
+.second{
+    width:33% ;
+border-radius: 463px;
+border: 15px solid #F00;
+width: 463px;
+height: 463px;}
+.ellip{
+    border-radius: 364.844px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.again{
+color: #F00;
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+}
+.third{
+    width:33%;
+    padding-left: 30px;
+}
+.coming{
+color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+}
+.description{
+color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;}
+.holiday{
+margin-top:100px;
+text-align: center;
+width: 1320px;
+}
+.sales{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;  
+}
+.change-color{
+color: #F00;
+}
+.function{
+    color: #070211;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+}
+.holiday-dicp{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    margin:0px 250px;
+}
+.magic{
+fill: radial-gradient(49.96% 50% at 50% 50.23%, #000 0%, #FFF 100%);
+mix-blend-mode: multiply;
+left: 40px;
+}
+.rectangle{
+width: 1320px;
+height: 229px;
+}
+.best-gift{
+color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+margin-bottom: 48px;
+}
+.awesome-portfolio{
+color: #070211;
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+}
+.main-part{
+    margin-top: 100px;
+    width:500px;
+}
+.div{
+    display: flex;
+    gap:24px;
+    margin-bottom: 24px;
+}
+.again-div{
+    display: flex;
+    gap: 24px;
+}
+.last-main{
+padding: 100px;
+text-align: center;
+width: 1120px;
+height: 416px;
+border-radius: 16px;
+background: rgba(255, 0, 0, 0.05);
+gap: 40px;
+margin-bottom: 120px;
+}
+.input{
+    display: flex;
+    padding:0px 250px;
+
+}
+.subscribe{
+    color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+}
+.dolor{
+    padding: 0px 212px;
+}
+.email{
+border-radius: 50px 0px 0px 50px;
+background: #FFF;
+width: 648px;
+height: 72px;
+border: 0px;
+}
+.sub{
+    border-radius: 0px 50px 50px 0px;
+    border: 0px;
+background: #F00;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    width: 210px;
+    height: 72px;
+    font-weight: 600;
 }
