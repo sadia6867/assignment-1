@@ -1,0 +1,52 @@
+.header{
+margin: 50px 140px 0px 140px;
+border-radius: 16px;
+width: 1320px;
+height: 600px;
+background-image: url('../images/Banner\ Image.png');
+background-repeat: no-repeat;
+background-position: center;
+text-align: center;
+}
+
+.head{
+    padding-top: 60px;
+}
+.new{
+color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-weight: 400;
+}
+.party{
+font-family: Merriweather;
+color: #FFF;
+text-align: center;
+font-size: 72px;
+font-weight: 900;
+line-height: 95px;
+}
+.offer{
+color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-weight: 700;
+padding-top: 120px;
+}
+.deals{
+color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+padding-top: 48px;
+}
+.categorie{
+color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+}
