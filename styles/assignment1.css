@@ -244,8 +244,8 @@ font-weight: 900;
     margin-bottom: 24px;
 }
 .again-div{
-    display: flex;
-    gap: 24px;
+display: flex;
+gap: 24px;
 }
 .last-main{
 padding: 100px;
@@ -258,19 +258,19 @@ gap: 40px;
 margin-bottom: 120px;
 }
 .input{
-    display: flex;
-    padding:0px 250px;
+display: flex;
+padding:0px 250px;
 
 }
 .subscribe{
-    color: #070211;
+color: #070211;
 text-align: center;
 font-family: Merriweather;
 font-size: 48px;
 font-weight: 900;
 }
 .dolor{
-    padding: 0px 212px;
+padding: 0px 212px;
 }
 .email{
 border-radius: 50px 0px 0px 50px;
@@ -280,14 +280,38 @@ height: 72px;
 border: 0px;
 }
 .sub{
-    border-radius: 0px 50px 50px 0px;
-    border: 0px;
+border-radius: 0px 50px 50px 0px;
+border: 0px;
 background: #F00;
-    color: #FFF;
-    text-align: center;
-    font-family: Inter;
-    font-size: 20px;
-    width: 210px;
-    height: 72px;
-    font-weight: 600;
+color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+width: 210px;
+height: 72px;
+font-weight: 600;
+}
+.footer{
+background: #070211;
+width: 1200px;
+height: 509px;
+padding: 140px;
+color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+}
+.footer-first{
+justify-content: space-between;
+display: flex;
+padding-bottom: 50px;
+}
+.add-image{;
+text-align: center;
+padding: 50px 0px;
+}
+.finish{
+display: flex;
+justify-content: space-between;
+padding-top: 50px;
 }
