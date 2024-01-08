@@ -3,7 +3,8 @@ margin: 50px 140px 0px 140px;
 border-radius: 16px;
 width: 1320px;
 height: 600px;
-background-image: url('../images/Banner\ Image.png');
+/* background-image: url('../images/Banner\ Image.png'); */
+background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('../images/Banner\ Image.png');
 background-repeat: no-repeat;
 background-position: center;
 text-align: center;
@@ -56,11 +57,14 @@ font-weight: 700;
     margin: 0% 40%;
 }
 .banner{
-background-image: url('../images/Vectorrr.png');
+/* background-image: url('../images/Vectorrr.png'); */
+background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('../images/Vectorrr.png');
 width: 1320px;
 height: 600px;
 margin-top: 150px;
 text-align: left;
+display: flex;
+/* padding: 10px; */
 }
 .midnight{
 color: #FFF;
@@ -82,9 +86,19 @@ height: 60px;
 }
 .join{
     color: #FFF;
+    background-color:transparent;
     padding-left: 32px;
     font-family: Inter;
     font-size: 20px;
     font-weight: 700;
-    text-transform: uppercase;
+ margin-bottom: 50px;
+ border: 0px;
+}
+.image-side{
+    margin-top:68px ;
+    margin-left: 138px;
+}
+.new-div{
+    margin-top: -50px;
+    margin-left: 120px;
 }
