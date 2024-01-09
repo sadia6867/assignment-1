@@ -190,6 +190,7 @@ line-height: 32px;}
 margin-top:100px;
 text-align: center;
 width: 1320px;
+height:500px
 }
 .sales{
     color: #070211;
@@ -215,6 +216,42 @@ font-weight: 500;
     line-height: 32px;
     margin:0px 250px;
 }
+.open{
+    height: 482px;
+     width: 1320px;
+     position: relative;
+    
+    }
+    .girl-image{
+        width: 429px;
+    height: 433px;
+    position: absolute;
+    left: 890px;
+    }
+    .red-rectangle{
+        width: 1320px;
+        height: 229px;
+        top: 432px;
+        border-radius: 16px 0px 16px 16px;
+    background: #F00;
+    position: absolute;
+    }
+    .discount{
+        color: #FFF;
+    font-family: Inter;
+    font-size: 24.338px;
+    font-weight: 900;
+    position: absolute;
+    top:90px;
+    left: 750px;}
+    .vector{
+    height: 200px;
+    width:200px;
+    position:absolute;
+    top:20px;
+    bottom:50px;
+    fill: #726131;
+    }
 .best-gift{
 color: #F00;
 font-family: Inter;
@@ -239,8 +276,10 @@ width: 896px;
 padding-bottom: 50px;
 }
 .main-part{
+    padding: 50px;
     margin-top:100px;
     width:500px;
+    height: 300px;
 }
 .div{
     display: flex;
@@ -251,6 +290,9 @@ padding-bottom: 50px;
     background-color: yellow;
     padding: 20px;
 
+}
+.six-pic{
+    margin: 50px;
 }
 .again-div{
 display: flex;
