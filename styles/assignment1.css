@@ -152,14 +152,17 @@ font-weight: 500;
 }
 .second{
     width:33% ;
-border-radius: 463px;
+border-radius:400px;
 border: 15px solid #F00;
-width: 463px;
-height: 463px;}
+width: 400px;
+height: 400px;}
 .ellip{
-    border-radius: 364.844px;
-    padding-left: 50px;
-    padding-top: 50px;
+width: 364.844px;
+height: 364.844px;
+border-radius: 364.844px;
+padding-top: 20px;
+padding-left: 10px;
+/* padding-left: 40px; */
 }
 .again{
 color: #F00;
@@ -243,6 +246,11 @@ font-weight: 900;
     gap:24px;
     margin-bottom: 24px;
 }
+.hover:hover{
+    background-color: yellow;
+    padding: 20px;
+
+}
 .again-div{
 display: flex;
 gap: 24px;
@@ -274,6 +282,7 @@ padding: 0px 212px;
 }
 .email{
 border-radius: 50px 0px 0px 50px;
+text-align: center;
 background: #FFF;
 width: 648px;
 height: 72px;
