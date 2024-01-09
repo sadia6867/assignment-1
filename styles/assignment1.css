@@ -237,6 +237,15 @@ font-family: Merriweather;
 font-size: 48px;
 font-weight: 900;
 }
+.best-des{
+color: rgba(7, 2, 17, 0.60);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+width: 896px;
+padding-bottom: 50px;
+}
 .main-part{
     margin-top: 100px;
     width:500px;
